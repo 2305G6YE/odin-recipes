@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Helvetica, "sans-serif";
+    background-color: #ede8d0;
+    box-sizing: border-box;
+}
+
+.website-content {
+    border: 2px ridge rgb(206, 170, 139);
+    background-color: white;
+    margin: 20px auto;
+
+}
+
+.header h1 {
+    text-align: center;
+    font-size: x-large;
+}
+
+.recipe-one {
+    background-color: rgb(196, 196, 196);
+    margin: 10px;
+    padding: 40px;
+}
+
+.recipe-two {
+    background-color: rgb(196, 196, 196);
+    margin: 10px;
+    padding: 40px;
+}
+
+.recipe-three {
+    background-color: rgb(196, 196, 196);
+    margin: 10px;
+    padding: 40px;
+}
