@@ -14,37 +14,34 @@ body {
 .header h1 {
     text-align: center;
     font-size: x-large;
+    border: 1px none;
+    width: 200px;
+    margin-left: 330px;
+    
+}
+ 
+.recipe-one,
+.recipe-two,
+.recipe-three {
+    margin: 20px 0px;
+    padding: 80px 0px 0px;
+}
+
+.recipe-one a,
+.recipe-two a,
+.recipe-three a {
+    color: black;
+    font-size: 15px;
 }
 
 .recipe-one {
     background-color: rgb(219, 216, 216);
-    margin: 20px 0px;
-    padding: 80px 0px 0px;
-}
-
-.recipe-one a {
-    color: black;
-    font-size: 15px;
 }
 
 .recipe-two {
     background-color: rgb(216, 187, 187);
-    margin: 20px 0px;
-    padding: 80px 0px 0px;
-}
-
-.recipe-two a {
-    color: black;
-    font-size: 15px;
 }
 
 .recipe-three {
     background-color: rgb(240, 179, 179);
-    margin: 20 0px;
-    padding: 80px 0px 0px;
-}
-
-.recipe-three a {
-    color: black;
-    font-size: 15px;
 }

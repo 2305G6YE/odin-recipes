@@ -1,0 +1,20 @@
+body {
+    box-sizing: border-box;
+    font-family: verdana, helvetica, sans-serif;
+    background-color: rgb(250, 226, 195);
+}
+
+img {
+    width: 
+    display: inline-block;
+}
+
+.header h1 {
+    margin: 0px auto 0px;
+    padding: 20px 0px 0px 345px;
+    background-color: coral;
+}
+
+.link-home a {
+    margin: 0px auto 40px;
+}
