@@ -1,0 +1,21 @@
+body {
+    font-family: verdana, helvetica, sans-serif;
+    background-color: lightskyblue;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: white;
+    border: 5px solid purple;
+    margin: 60px 30px;
+}
+
+.header {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.link-home {
+    display: block;
+    text-align: right;
+}
