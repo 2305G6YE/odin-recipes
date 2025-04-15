@@ -8,14 +8,40 @@ body {
     background-color: white;
     border: 5px solid purple;
     margin: 60px 30px;
+    border-bottom: 20px solid purple;
 }
 
-.header {
-    border-bottom: 1px solid black;
-    text-align: center;
-}
 
 .link-home {
     display: block;
     text-align: right;
+}
+
+.header,
+.description h3,
+.ingredients h3,
+.steps h3 {
+    text-align: center; 
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    background-color: pink;
+}
+
+.description h3 {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 11px 0px
+}
+
+img {
+    width: 60%;
+    margin: 19px 0px 40px 2px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.description {
+    width: 35vw;
+    display: inline-block;
+    vertical-align: top;
 }
