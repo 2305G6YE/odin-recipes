@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(149, 197, 116);
+    font-family: "Times New Roman", Arial, serif;
+}
+
+.container {
+    background-color: beige;
+    margin: 40px 20px;
+    border: 5px solid rgba(165, 42, 42, 0.712);
+    border-bottom: 40px solid rgba(165, 42, 42, 0.712);
+}
+
+.header {
+    background-color: rgba(219, 91, 191, 0.842);
+    border: 1px solid black;
+    color: aqua;
+    width: 22vw;
+}
+
+.link-home {
+    display: block;
+    
+}
