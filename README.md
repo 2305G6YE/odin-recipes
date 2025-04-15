@@ -1,7 +1,7 @@
 <h1>Title: My Favourite Recipes</h1>
 
 <h2>Description</h2>
-<p>This project involves me continuously updating it using new skills I learnt in the foundational course of "The Odin Project".I first implemented HTML on April 2nd, 2025. I then added basic CSS by Aprl 15th, 2025. </p>
+<p>This project involves me continuously updating it using new skills I learnt in the foundational course of TOP(The Odin Project).I first implemented HTML on April 2nd, 2025. I then added basic CSS by April 15th, 2025. </p>
 
 
 <h2> Motivation and Problem</h2>
